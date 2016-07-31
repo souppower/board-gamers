@@ -2,22 +2,24 @@ package board_gamers
 
 import (
 	"encoding/json"
+	"net/http"
+	"regexp"
+	"strings"
+	"time"
+
 	"github.com/mjibson/goon"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine"
 	"google.golang.org/appengine/delay"
 	"google.golang.org/appengine/log"
 	"google.golang.org/appengine/urlfetch"
-	"net/http"
-	"regexp"
-	"strings"
-	"time"
+
+	"io/ioutil"
+	"net/url"
 
 	"github.com/dghubble/sessions"
 	"github.com/garyburd/go-oauth/oauth"
 	"google.golang.org/appengine/taskqueue"
-	"io/ioutil"
-	"net/url"
 )
 
 const (

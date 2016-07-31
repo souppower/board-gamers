@@ -1,0 +1,35 @@
+{
+    "version": 0,
+    "dependencies": [
+        {
+            "importpath": "google.golang.org/appengine",
+            "repository": "https://github.com/golang/appengine",
+            "revision": "267c27e7492265b84fc6719503b14a1e17975d79",
+            "branch": "master"
+        },
+        {
+            "importpath": "github.com/dghubble/sessions",
+            "repository": "https://github.com/dghubble/sessions",
+            "revision": "4f3e939c9cae9394159f58ce5f473951c689e488",
+            "branch": "master"
+        },
+        {
+            "importpath": "github.com/garyburd/go-oauth/oauth",
+            "repository": "https://github.com/garyburd/go-oauth",
+            "revision": "719b069913e1151a73ea30d2ea4f90deda3ce234",
+            "branch": "master"
+        },
+        {
+            "importpath": "github.com/googlechrome/push-encryption-go/webpush",
+            "repository": "https://github.com/googlechrome/push-encryption-go",
+            "revision": "0f83f6c09c8b4778fae6bc88597f1b2cd96719db",
+            "branch": "master"
+        },
+        {
+            "importpath": "github.com/mjibson/goon",
+            "repository": "https://github.com/mjibson/goon",
+            "revision": "f99149e651e1f35d52dfbf8ac32aa87385d828fc",
+            "branch": "master"
+        }
+    ]
+}
