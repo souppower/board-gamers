@@ -30,6 +30,25 @@
             "repository": "https://github.com/mjibson/goon",
             "revision": "f99149e651e1f35d52dfbf8ac32aa87385d828fc",
             "branch": "master"
+        },
+        {
+            "importpath": "golang.org/x/net/context",
+            "repository": "https://go.googlesource.com/net",
+            "revision": "f841c39de738b1d0df95b5a7187744f0e03d8112",
+            "branch": "master",
+            "path": "/context"
+        },
+        {
+            "importpath": "github.com/golang/protobuf",
+            "repository": "https://github.com/golang/protobuf",
+            "revision": "2c1988e8c18d14b142c0b472624f71647cf39adb",
+            "branch": "master"
+        },
+        {
+            "importpath": "github.com/gorilla/securecookie",
+            "repository": "https://github.com/gorilla/securecookie",
+            "revision": "ff356348f74133a59d3e93aa24b5b4551b6fe90d",
+            "branch": "master"
         }
     ]
 }
