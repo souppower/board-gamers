@@ -4,7 +4,7 @@
         {
             "importpath": "google.golang.org/appengine",
             "repository": "https://github.com/golang/appengine",
-            "revision": "267c27e7492265b84fc6719503b14a1e17975d79",
+            "revision": "e951d3868b377b14f4e60efa3a301532ee3c1ebf",
             "branch": "master"
         },
         {
