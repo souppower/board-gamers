@@ -13,8 +13,8 @@ dependencies:
     - unzip -q -d $HOME $HOME/go_appengine_sdk_linux_amd64.zip
   override:
       - ./setup.sh:
-          pwd: pwd
+          pwd: api
 test:
   override:
       - ./test.sh:
-          pwd: pwd
+          pwd: api
