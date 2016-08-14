@@ -17,13 +17,15 @@
             "importpath": "github.com/garyburd/go-oauth/oauth",
             "repository": "https://github.com/garyburd/go-oauth",
             "revision": "719b069913e1151a73ea30d2ea4f90deda3ce234",
-            "branch": "master"
+            "branch": "master",
+            "path": "/oauth"
         },
         {
             "importpath": "github.com/googlechrome/push-encryption-go/webpush",
             "repository": "https://github.com/googlechrome/push-encryption-go",
             "revision": "0f83f6c09c8b4778fae6bc88597f1b2cd96719db",
-            "branch": "master"
+            "branch": "master",
+            "path": "/webpush"
         },
         {
             "importpath": "github.com/mjibson/goon",
